@@ -2,7 +2,7 @@
 
 # configs
 AUUID=cdb33ccd-6946-4572-a862-530d46016dc0
-CADDYIndexPage=https://github.com/technext/drivin/archive/refs/heads/main.zip
+CADDYIndexPage=https://github.com/technext/Flusk/archive/refs/heads/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/hytgvcewed/rrdbj/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/hytgvcewed/rrdbj/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
